@@ -17,8 +17,8 @@ body {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	width: 500px;
-	height: 430px;
+	width: 1000px;
+	height: 1000px;
 }
 .form-box:before {
 	background-color: #000;
