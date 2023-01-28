@@ -9,16 +9,16 @@ body {
 .form-box {
 	background-color: rgba(226, 153, 226, 0.5);
 	margin: auto auto;
-	padding: 40px;
-	border-radius: 5px;
+	padding: 78px;
+	border-radius: 18px;
 	box-shadow: 0 0 10px rgb(248, 248, 248);
 	position: absolute;
 	top: 0;
 	bottom: 0;
 	left: 0;
 	right: 0;
-	width: 1000px;
-	height: 1000px;
+	width: 881px;
+	height: 663px;
 }
 .form-box:before {
 	background-color: #000;
